@@ -5,7 +5,7 @@
 
 // c:\Users\sethc\Downloads\video4051744781.mp4
 
-// I'm so sorry I forgot the part where I show is compiling
+// 
 // c:\Users\sethc\Downloads\video1821323568.mp4
 
 #include <iostream>
@@ -24,7 +24,7 @@ const int SIZE = 60;
 // create structs
 // put the data from the files into structs
 // take each word and match it 
-// print out the Mandarin version
+// print out the Spanish version
 
 struct fileWords 
 {
